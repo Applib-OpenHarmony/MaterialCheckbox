@@ -1,5 +1,5 @@
 {
-  "name": "checkbox",
+  "name": "@ohos/material-checkbox",
   "version": "1.0.0",
   "description": "",
   "main": "src/checkbox.ets",
