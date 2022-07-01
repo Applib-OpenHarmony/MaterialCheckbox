@@ -1,15 +1,12 @@
 # Material_CheckBox
 
-Material checkbox design in OpenHarmony.
+This library is developed to provide material checkbox implemented using extended typescript.
 
 ## Download & Install
 
 Install using npm
 
-```npm i ohos-material-checkbox```
-
-Details about OpenHarmony NPM environment configuration, see
-at [here](https://gitee.com/openharmony-tpc/docs/blob/master/OpenHarmony_npm_usage.md)
+```npm i @ohos/material-checkbox```
 
 ## Usage Instructions
 
@@ -89,15 +86,15 @@ Supports OpenHarmony API version 8
 ## Code Contribution
 
 If you find any problems during usage, you can submit
-an [Issue](https://github.com/Applib-OpenHarmony/Material_Ui_Checkbox/issues) to us. Of course, we also welcome you to
-send us [PR](https://github.com/Applib-OpenHarmony/Material_Ui_Checkbox/pulls).
+an [Issue](https://github.com/Applib-OpenHarmony/MaterialCheckbox/issues) to us. Of course, we also welcome you to
+send us [PR](https://github.com/Applib-OpenHarmony/MaterialCheckbox/pulls).
 
 ## Open source License
 
 This project is based
-on [Apache License 2.0](https://github.com/Applib-OpenHarmony/Material_Ui_Checkbox/blob/main/LICENSE), please enjoy and
+on [Apache License 2.0](https://github.com/Applib-OpenHarmony/MaterialCheckbox/blob/main/LICENSE), please enjoy and
 participate in open source freely.
 
 # Reference:
 
-Design by : Dharma Seelan
+Design by : Himanshu Piplani
