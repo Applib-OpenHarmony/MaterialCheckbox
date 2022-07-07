@@ -13,11 +13,12 @@
  * limitations under the License.
  */
 
-export default {
-  onCreate() {
-    console.info('Application onCreate')
-  },
-  onDestroy() {
-    console.info('Application onDestroy')
-  },
-}
+export { CheckBox } from './src/main/ets/components/checkBox'
+
+export { CheckBoxGroup } from './src/main/ets/components/checkBox'
+
+export { CheckBoxItem } from './src/main/ets/components/checkBoxItem'
+
+export { CheckBoxTheme } from './src/main/ets/components/checkBoxTheme'
+
+export { CheckBoxStatus } from './src/main/ets/components/checkBoxStatus'
